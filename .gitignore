@@ -1,26 +1,15 @@
-# Ignore build files
+# Build artifacts
 bin/
 obj/
 *.dll
 *.exe
 *.pdb
 
-# Ignore user-specific files
+# VS/IDE-specific
+.vscode/
 *.user
 *.suo
 
-# Ignore debug/release folders
-**/Debug/
-**/Release/
-
-# Ignore Visual Studio files
-.vscode/
-*.vs
-
-# Ignore temporary files
-*.log
-*.tmp
-
-# Ignore system files
-Thumbs.db
+# OS junk
 .DS_Store
+Thumbs.db
