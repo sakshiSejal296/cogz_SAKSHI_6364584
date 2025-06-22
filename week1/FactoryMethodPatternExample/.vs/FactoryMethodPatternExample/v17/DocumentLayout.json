@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\exceldocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:exceldocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\pdfdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:pdfdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\worddocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:worddocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|c:\\users\\kiit\\source\\repos\\factorymethodpatternexample\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503334F4-E03D-4BD9-BBB6-FC3365CDD90D}|..\\FactoryMethodPatternExample\\FactoryMethodPatternExample..csproj|solutionrelative:documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\ExcelDocumentFactory.cs",
+              "RelativeDocumentMoniker": "ExcelDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\ExcelDocumentFactory.cs",
+              "RelativeToolTip": "ExcelDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:20:39.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:10:00.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "PdfDocument.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\PdfDocument.cs",
+              "RelativeToolTip": "PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:14:46.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\PdfDocumentFactory.cs",
+              "RelativeDocumentMoniker": "PdfDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\PdfDocumentFactory.cs",
+              "RelativeToolTip": "PdfDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:19:56.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wordDocument.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\wordDocument.cs",
+              "RelativeDocumentMoniker": "wordDocument.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\wordDocument.cs",
+              "RelativeToolTip": "wordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:14:11.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WordDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\WordDocumentFactory.cs",
+              "RelativeDocumentMoniker": "WordDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\WordDocumentFactory.cs",
+              "RelativeToolTip": "WordDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:18:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelDocument.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\ExcelDocument.cs",
+              "RelativeDocumentMoniker": "ExcelDocument.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\ExcelDocument.cs",
+              "RelativeToolTip": "ExcelDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:15:18.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\IDocument.cs",
+              "RelativeDocumentMoniker": "IDocument.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\IDocument.cs",
+              "RelativeToolTip": "IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:13:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\FactoryMethodPatternExample\\DocumentFactory.cs",
+              "RelativeToolTip": "DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T04:18:10.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
